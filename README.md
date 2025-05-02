@@ -1,12 +1,26 @@
-# Department-Site-Project
+# Department-Site-Project 🏫
 
-- Link: https://gnyo.n-e.kr/
-- 사진: 언스플래시 (Unsplash)
-- 로고 및 자료: 경성대학교
-- 폰트: Noto Sans KR, sans=serif (https://fonts.googleapis.com/css2?family=Noto+Sans+KR:wght@100..900&display=swap)
-- 제작: 경성대학교 소프트웨어학과 안근효
+A newly developed website for the Department of Software, Kyungsung University, providing an online platform with essential information and resources.
 
-</br>
+## 🔗 Preview & Link
 
-<a href="https://gnyo.n-e.kr/" target="_blank"> ![image](https://github.com/user-attachments/assets/49e67c8c-e68c-4f4b-86aa-6c5568031aa7) <a>
-사진을 누르면 링크로 이동됩니다.
+[![Department Site Screenshot](https://github.com/user-attachments/assets/49e67c8c-e68c-4f4b-86aa-6c5568031aa7)](https://gnyo.n-e.kr/)
+You can click the image to visit the website.
+
+You can access the website here: [https://gnyo.n-e.kr/](https://gnyo.n-e.kr/)
+
+## 🛠️ Tech Stack
+
+- **Frontend**: React
+- **Styling**: CSS
+- **Font**: Noto Sans KR, sans-serif
+
+## 📄 License
+
+This project uses the following third-party assets:
+
+- **Images**: Photos from [Unsplash](https://unsplash.com/)
+- **Logo & Official Materials**: Provided by Kyungsung University
+- **Font**: Noto Sans KR, sans-serif ([Google Fonts](https://fonts.googleapis.com/css2?family=Noto+Sans+KR:wght@100..900&display=swap))
+
+These assets are used in accordance with their respective licenses and permissions.
