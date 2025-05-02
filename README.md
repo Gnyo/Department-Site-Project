@@ -2,12 +2,15 @@
 
 A newly developed website for the Department of Software, Kyungsung University, providing an online platform with essential information and resources.
 
-## 🔗 Preview & Link
+## 🔗 Preview
 
 [![Department Site Screenshot](https://github.com/user-attachments/assets/49e67c8c-e68c-4f4b-86aa-6c5568031aa7)](https://gnyo.n-e.kr/)
+
 You can click the image to visit the website.
 
-You can access the website here: [https://gnyo.n-e.kr/](https://gnyo.n-e.kr/)
+## 🚀 Deployment
+
+This project is deployed on [GitHub Pages](https://gnyo.n-e.kr/) using a custom domain (gnyo.n-e.kr).
 
 ## 🛠️ Tech Stack
 
