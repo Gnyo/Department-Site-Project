@@ -6,7 +6,7 @@ A newly developed website for the Department of Software, Kyungsung University, 
 
 [![Department Site Screenshot](https://github.com/user-attachments/assets/49e67c8c-e68c-4f4b-86aa-6c5568031aa7)](https://gnyo.n-e.kr/)
 
-You can click the image to visit the website.
+Click the image above to visit the website.
 
 ## 🚀 Deployment
 
