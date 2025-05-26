@@ -1,16 +1,16 @@
-# Department-Site-Project 🏫
+# 경성대학교 학과 사이트 🏫
 
-A newly developed website for the Department of Software, Kyungsung University, providing an online platform with essential information and resources.
+경성대학교 소프트웨어학과를 위한 신규 웹사이트입니다. 학과 정보를 한눈에 확인할 수 있는 온라인 플랫폼을 제공합니다.
 
 ## 🔗 Preview
 
 [![Department Site Screenshot](https://github.com/user-attachments/assets/49e67c8c-e68c-4f4b-86aa-6c5568031aa7)](https://gnyo.n-e.kr/)
 
-Click the image above to visit the website.
+위 이미지를 클릭하면 웹사이트로 이동합니다.
 
 ## 🚀 Deployment
 
-This project is deployed on [GitHub Pages](https://gnyo.n-e.kr/) using a custom domain (gnyo.n-e.kr).
+이 프로젝트는 [**GitHub Pages**](https://gnyo.n-e.kr/)에 커스텀 도메인(gnyo.n-e.kr)을 연결하여 배포되었습니다.
 
 ## 🛠️ Tech Stack
 
@@ -20,10 +20,10 @@ This project is deployed on [GitHub Pages](https://gnyo.n-e.kr/) using a custom 
 
 ## 📄 License
 
-This project uses the following third-party assets:
+이 프로젝트는 다음 외부 리소스를 사용하고 있습니다:
 
-- **Images**: Photos from [Unsplash](https://unsplash.com/)
-- **Logo & Official Materials**: Provided by Kyungsung University
+- **Images**: [Unsplash](https://unsplash.com/)
+- **Logo & Official Materials**: 경성대학교 제공
 - **Font**: Noto Sans KR, sans-serif ([Google Fonts](https://fonts.googleapis.com/css2?family=Noto+Sans+KR:wght@100..900&display=swap))
 
-These assets are used in accordance with their respective licenses and permissions.
+위에 사용된 이미지, 로고, 폰트 등은 각 제공처의 라이선스 및 사용 조건을 준수하여 활용하였습니다.
